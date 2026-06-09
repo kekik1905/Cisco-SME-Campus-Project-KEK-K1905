@@ -1,3 +1,4 @@
+<img width="1925" height="1011" alt="p1" src="https://github.com/user-attachments/assets/3a771943-01d2-4683-b4ad-7dad01103b28" />
 Markdown
 # Automated SME Campus Infrastructure Deployment with Cisco ISR 4331
 
